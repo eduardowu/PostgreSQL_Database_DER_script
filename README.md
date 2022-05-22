@@ -1,6 +1,6 @@
 # Postgre_Database_DER_script
  
-Banco de Dados desenvolvido com o PostgreSQL (https://www.postgresql.org/), no âmbito do componente curricular Banco de Dados (2º Semestre de 2018), curso de Engenharia de Software (ADS) na Unicesumar. Unicesumar - 2018/02
+Descrição de Banco de Dados a ser desenvolvido com o PostgreSQL (https://www.postgresql.org/). Componente curricular Banco de Dados (2º Semestre de 2018), curso de Engenharia de Software (ADS) na Unicesumar. Unicesumar - 2018/02
 
 ---
 
